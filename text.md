@@ -21,3 +21,5 @@
 *git checkout -b name* - create new branch and come there
 
 *git log --graph* - visualisation
+
+*git log* - nothing 
