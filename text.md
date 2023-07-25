@@ -23,3 +23,4 @@
 *git log --graph* - visualisation
 
 *git log* - nothing 
+*git log* - all commits
