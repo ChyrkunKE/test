@@ -12,3 +12,6 @@
 
 *git log* - commits history
 
+*git branch* - to see all branches
+
+*git merge* - 2 in one
