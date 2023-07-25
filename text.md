@@ -19,3 +19,5 @@
 *git branch -d * - delete branch
 
 *git checkout -b name* - create new branch and come there
+
+*git log* - all commits
