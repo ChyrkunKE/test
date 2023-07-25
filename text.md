@@ -18,4 +18,6 @@
 
 *git branch -d * - delete branch
 
-*git nothing*
+*git checkout -b name* - create new branch and come there
+
+*git log --graph* - visualisation
