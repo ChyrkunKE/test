@@ -17,3 +17,5 @@
 *git merge* - 2 in one
 
 *git branch -d * - delete branch
+
+*git nothing*
