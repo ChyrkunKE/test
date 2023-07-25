@@ -4,9 +4,9 @@
 
 *git status* - actual status
 
-*git add* - add changed file to repository
+*git add name* - add changed file to repository
 
-*git commit* - save changes
+*git commit -m "name"* - save changes
 
 *git diff* - to see changes
 
@@ -14,13 +14,13 @@
 
 *git branch* - to see all branches
 
-*git merge* - 2 in one
+*git merge* - 2 or more in one
 
-*git branch -d * - delete branch
+*git branch -d name* - delete branch
 
 *git checkout -b name* - create new branch and come there
 
 *git log --graph* - visualisation
 
-*git log* - nothing 
-*git log* - all commits
+## How to add picture
+
