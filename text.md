@@ -24,3 +24,5 @@
 
 *git log* - nothing 
 *git log* - all commits
+
+## Pictures
