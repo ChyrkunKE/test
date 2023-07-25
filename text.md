@@ -15,3 +15,5 @@
 *git branch* - to see all branches
 
 *git merge* - 2 in one
+
+*git branch -d * - delete branch
